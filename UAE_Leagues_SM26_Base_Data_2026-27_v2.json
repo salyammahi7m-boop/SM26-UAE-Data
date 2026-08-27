@@ -1,0 +1,166 @@
+{
+    "PlayerData": [],
+    "ClubData": [
+        {
+            "ID": 1,
+            "Name": "Al Ain",
+            "ShortName": "AIN",
+            "ImageURL": ""
+        },
+        {
+            "ID": 2,
+            "Name": "Shabab AlAhli",
+            "ShortName": "SAA",
+            "ImageURL": ""
+        },
+        {
+            "ID": 3,
+            "Name": "Al Jazira",
+            "ShortName": "JAZ",
+            "ImageURL": ""
+        },
+        {
+            "ID": 4,
+            "Name": "Al Nasr",
+            "ShortName": "NAS",
+            "ImageURL": ""
+        },
+        {
+            "ID": 5,
+            "Name": "Al Wahda",
+            "ShortName": "WAH",
+            "ImageURL": ""
+        },
+        {
+            "ID": 6,
+            "Name": "Al Wasl",
+            "ShortName": "WAS",
+            "ImageURL": ""
+        },
+        {
+            "ID": 7,
+            "Name": "Sharjah",
+            "ShortName": "SHA",
+            "ImageURL": ""
+        },
+        {
+            "ID": 8,
+            "Name": "Bani Yas",
+            "ShortName": "BAN",
+            "ImageURL": ""
+        },
+        {
+            "ID": 9,
+            "Name": "Ajman",
+            "ShortName": "AJM",
+            "ImageURL": ""
+        },
+        {
+            "ID": 10,
+            "Name": "Kalba",
+            "ShortName": "KAL",
+            "ImageURL": ""
+        },
+        {
+            "ID": 11,
+            "Name": "Khorfakkan",
+            "ShortName": "KHO",
+            "ImageURL": ""
+        },
+        {
+            "ID": 12,
+            "Name": "Hatta",
+            "ShortName": "HAT",
+            "ImageURL": ""
+        },
+        {
+            "ID": 13,
+            "Name": "Al Dhafra",
+            "ShortName": "DHF",
+            "ImageURL": ""
+        },
+        {
+            "ID": 14,
+            "Name": "United",
+            "ShortName": "UNI",
+            "ImageURL": ""
+        }
+    ],
+    "LeagueData": [
+        {
+            "ID": 28,
+            "Name": "ADNOC Pro League",
+            "ImageURL": ""
+        }
+    ],
+    "CupData": [
+        {
+            "ID": 2,
+            "Name": "ADIB Cup",
+            "ImageURL": ""
+        },
+        {
+            "ID": 3,
+            "Name": "UAE Super Cup",
+            "ImageURL": ""
+        }
+    ],
+    "StadiumData": [
+        {
+            "ID": 1,
+            "Name": "Hazza bin Zayed Stadium"
+        },
+        {
+            "ID": 2,
+            "Name": "Rashid Stadium"
+        },
+        {
+            "ID": 3,
+            "Name": "Mohammed Bin Zayed Stadium"
+        },
+        {
+            "ID": 4,
+            "Name": "Al Maktoum Stadium"
+        },
+        {
+            "ID": 5,
+            "Name": "Al Nahyan Stadium"
+        },
+        {
+            "ID": 6,
+            "Name": "Zabeel Stadium"
+        },
+        {
+            "ID": 7,
+            "Name": "Sharjah Stadium"
+        },
+        {
+            "ID": 8,
+            "Name": "Baniyas Stadium"
+        },
+        {
+            "ID": 9,
+            "Name": "Ajman Stadium"
+        },
+        {
+            "ID": 10,
+            "Name": "Kalba Stadium"
+        },
+        {
+            "ID": 11,
+            "Name": "Saqr bin Mohammad al Qassimi Stadium"
+        },
+        {
+            "ID": 12,
+            "Name": "Hatta Stadium"
+        },
+        {
+            "ID": 13,
+            "Name": "Hamdan Bin Zayed Stadium"
+        },
+        {
+            "ID": 14,
+            "Name": "United Stadium"
+        }
+    ]
+}

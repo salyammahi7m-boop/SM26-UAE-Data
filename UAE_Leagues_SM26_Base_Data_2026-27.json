@@ -1,0 +1,321 @@
+{
+    "PlayerData": [],
+    "ClubData": [
+        {
+            "ID": 1,
+            "Name": "Al Ain",
+            "ShortName": "AIN",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 2,
+            "Name": "Shabab Al Ahli",
+            "ShortName": "SAA",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 3,
+            "Name": "Al Wasl",
+            "ShortName": "WAS",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 4,
+            "Name": "Al Jazira",
+            "ShortName": "JAZ",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 5,
+            "Name": "Al Wahda",
+            "ShortName": "WAH",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 6,
+            "Name": "Al Nasr",
+            "ShortName": "NAS",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 7,
+            "Name": "Sharjah",
+            "ShortName": "SHA",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 8,
+            "Name": "Ajman",
+            "ShortName": "AJM",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 9,
+            "Name": "Kalba",
+            "ShortName": "KLB",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 10,
+            "Name": "Khorfakkan",
+            "ShortName": "KHO",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 11,
+            "Name": "Bani Yas",
+            "ShortName": "BYS",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 12,
+            "Name": "Al Dhafra",
+            "ShortName": "DHF",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 13,
+            "Name": "Hatta",
+            "ShortName": "HAT",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 14,
+            "Name": "United",
+            "ShortName": "UNT",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 15,
+            "Name": "Al Bataeh",
+            "ShortName": "BAT",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 16,
+            "Name": "Al Jazira Al Hamra",
+            "ShortName": "AJH",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 17,
+            "Name": "Al Arabi",
+            "ShortName": "ARB",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 18,
+            "Name": "Al Hamriyah",
+            "ShortName": "HAM",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 19,
+            "Name": "Al Dhaid",
+            "ShortName": "DHD",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 20,
+            "Name": "Al Ittifaq",
+            "ShortName": "ITF",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 21,
+            "Name": "Al Orooba",
+            "ShortName": "ORO",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 22,
+            "Name": "Dibba Al Hisn",
+            "ShortName": "DAH",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 23,
+            "Name": "Dubai City",
+            "ShortName": "DCT",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 24,
+            "Name": "Dibba",
+            "ShortName": "DIB",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 25,
+            "Name": "Gulf United",
+            "ShortName": "GUL",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 26,
+            "Name": "Emirates",
+            "ShortName": "EMI",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 27,
+            "Name": "Palm City",
+            "ShortName": "PC",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 28,
+            "Name": "Fujairah",
+            "ShortName": "FUJ",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 29,
+            "Name": "Forte Virtus",
+            "ShortName": "FOV",
+            "ImageURL": "<insert imageurl>"
+        }
+    ],
+    "LeagueData": [
+        {
+            "ID": 28,
+            "Name": "ADNOC Pro League",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 29,
+            "Name": "UAE First Division League",
+            "ImageURL": "<insert imageurl>"
+        }
+    ],
+    "CupData": [
+        {
+            "ID": 2,
+            "Name": "UAE President's Cup",
+            "ImageURL": "<insert imageurl>"
+        },
+        {
+            "ID": 3,
+            "Name": "ADIB Cup",
+            "ImageURL": "<insert imageurl>"
+        }
+    ],
+    "StadiumData": [
+        {
+            "ID": 1,
+            "Name": "Hazza bin Zayed Stadium"
+        },
+        {
+            "ID": 2,
+            "Name": "Rashid Stadium"
+        },
+        {
+            "ID": 3,
+            "Name": "Zabeel Stadium"
+        },
+        {
+            "ID": 4,
+            "Name": "Mohammed Bin Zayed Stadium"
+        },
+        {
+            "ID": 5,
+            "Name": "Al Nahyan Stadium"
+        },
+        {
+            "ID": 6,
+            "Name": "Al Maktoum Stadium"
+        },
+        {
+            "ID": 7,
+            "Name": "Sharjah Stadium"
+        },
+        {
+            "ID": 8,
+            "Name": "Rashid bin Saeed Stadium"
+        },
+        {
+            "ID": 9,
+            "Name": "Kalba Stadium"
+        },
+        {
+            "ID": 10,
+            "Name": "Saqr bin Mohammad Al Qassimi Stadium"
+        },
+        {
+            "ID": 11,
+            "Name": "Bani Yas Stadium"
+        },
+        {
+            "ID": 12,
+            "Name": "Hamdan Bin Zayed Stadium"
+        },
+        {
+            "ID": 13,
+            "Name": "Hamdan Bin Rashid Al Maktoum Stadium"
+        },
+        {
+            "ID": 14,
+            "Name": "United Stadium"
+        },
+        {
+            "ID": 15,
+            "Name": "Khalid Bin Mohammed Stadium"
+        },
+        {
+            "ID": 16,
+            "Name": "Al Hamra Stadium"
+        },
+        {
+            "ID": 17,
+            "Name": "Umm Al Quwain Stadium"
+        },
+        {
+            "ID": 18,
+            "Name": "Al Hamriya Sports Club Stadium"
+        },
+        {
+            "ID": 19,
+            "Name": "Al-Dhaid Stadium"
+        },
+        {
+            "ID": 20,
+            "Name": "Various Grounds"
+        },
+        {
+            "ID": 21,
+            "Name": "Al Sharqi Stadium"
+        },
+        {
+            "ID": 22,
+            "Name": "Dibba (H) Stadium"
+        },
+        {
+            "ID": 23,
+            "Name": "Kings School Al Barsha"
+        },
+        {
+            "ID": 24,
+            "Name": "Dibba Stadium"
+        },
+        {
+            "ID": 25,
+            "Name": "Dubai Club Stadium"
+        },
+        {
+            "ID": 26,
+            "Name": "Emirates Club Stadium"
+        },
+        {
+            "ID": 27,
+            "Name": "TBD"
+        },
+        {
+            "ID": 28,
+            "Name": "Fujairah Club Stadium"
+        },
+        {
+            "ID": 29,
+            "Name": "TBD"
+        }
+    ]
+}
